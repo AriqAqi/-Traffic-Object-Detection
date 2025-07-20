@@ -1,0 +1,10 @@
+Ambulance
+Bicycle
+Bus
+Minibus
+Motorbike
+Person
+Pickup
+Sedan
+Truck
+Tuk Tuk

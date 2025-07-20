@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Ambulance"
+    },
+    {
+      "id": 1,
+      "name": "Bicycle"
+    },
+    {
+      "id": 2,
+      "name": "Bus"
+    },
+    {
+      "id": 3,
+      "name": "Minibus"
+    },
+    {
+      "id": 4,
+      "name": "Motorbike"
+    },
+    {
+      "id": 5,
+      "name": "Person"
+    },
+    {
+      "id": 6,
+      "name": "Pickup"
+    },
+    {
+      "id": 7,
+      "name": "Sedan"
+    },
+    {
+      "id": 8,
+      "name": "Truck"
+    },
+    {
+      "id": 9,
+      "name": "Tuk Tuk"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
