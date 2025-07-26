@@ -29,6 +29,3 @@ Bounding box annotation is a widely adopted and efficient method for object dete
 - May overlap in crowded scenes
 - Includes extra background pixels
 
-##  Training with YOLOv8
-
-The dataset was used to train a YOLOv8 model using the `ultralytics` Python package. Training was performed using YOLOv8n (nano) for optimal speed and real-time performance.
